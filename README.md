@@ -1,5 +1,7 @@
 # AngularApp
 
+根据官方文档demo写,入门angular用
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
 
 ## Development server
